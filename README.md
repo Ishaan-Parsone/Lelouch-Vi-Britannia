@@ -18,7 +18,7 @@ I am currently expanding my knowledge and skills by exploring and delving deeper
 </ul>
 </p>
 
-<img src="https://i.ibb.co/HCcngqr/Coding-Walking-Cat.gif" alt="Coding-Walking-Cat" border="0">
+<img align="right" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" alt="Coding-Walking-Cat" border="0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainishapathak&label=Profile%20views&color=0e75b6&style=flat" alt="jainishapathak" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
